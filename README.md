@@ -2,11 +2,11 @@
 The World's Billionaires is an annual ranking by documented net worth of the wealthiest billionaires in the world, compiled and published in March annually by the American business magazine Forbes
 ---
 # Objectives
-## 1. Find out the Richest Billionaire in the world
-## 2. Who are the 10 richest People?
-## 3. What is the average age of the billionaires? In what age range are there more billionaires? Who are the youngest and oldest billionaires?
-## 4. Which country has the most billionaires?
-## 5. Which Industry produced billionaires with the most networth ?
+ 1. Find out the Richest Billionaire in the world
+ 2. Who are the 10 richest People?
+ 3. What is the average age of the billionaires? In what age range are there more billionaires? Who are the youngest and oldest billionaires?
+ 4. Which country has the most billionaires?
+ 5. Which Industry produced billionaires with the most networth ?
 ---
 # Data Sourcing and Cleaning
 ## The dataset was gotten from kaggle 
@@ -15,7 +15,7 @@ The dataset did not require much cleaning. The texts and numbers were formatted 
 
 ---
 ## Analysis And Exploration
-#### First, the table containing the dataset was converted into a pivot table from which the different charts of insight were generated
+ First, the table containing the dataset was converted into a pivot table from which the different charts of insight were generated
 ### Chart 1 : Top 10 Billionaires
 ![Top 10 Billionaires Chart](https://user-images.githubusercontent.com/107186855/185738088-ab3f3db4-52b2-4a00-a576-ddf3afb98415.png)
 ### Chart 2: Histogram of Age
